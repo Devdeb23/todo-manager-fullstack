@@ -1,0 +1,26 @@
+# Ignora i file generati da Maven
+/target/
+
+# Ignora i file e le cartelle specifiche di IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignora i file di log
+*.log
+
+# Ignora i file compilati di Java (binari)
+*.class
+
+# Ignora le dipendenze scaricate da Maven
+/lib/
+
+# Ignora i file .env per le variabili d'ambiente (se useremo in futuro)
+.env
+
+# File di configurazione locali
+*.properties
+*.yml
+!src/main/resources/*.properties
+!src/main/resources/*.yml
