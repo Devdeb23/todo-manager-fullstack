@@ -27,7 +27,7 @@ Questo repository contiene l'applicazione completa di gestione delle attività (
 ## Come Avviare il Progetto
 
 1.  **Clona il repository:**
-    `git clone [INSERISCI QUI L'URL DEL TUO NUOVO REPO GITHUB]`
+    `git clone https://github.com/Devdeb23/todo-manager-fullstack.git`
 2.  **Naviga nella cartella del progetto principale:**
     `cd todo`
 
